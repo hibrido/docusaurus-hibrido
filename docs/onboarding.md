@@ -1,6 +1,6 @@
 ---
-id: doc1
-title: Latin-ish
+id: onboarding
+title: Onboarding
 sidebar_label: Example Page
 ---
 
