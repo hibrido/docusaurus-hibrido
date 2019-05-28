@@ -1,6 +1,6 @@
 ---
-id: onboarding_ubuntu
-title: Ubuntu
+id: handbook_ubuntu
+title: Handbook Ubuntu
 ---
 
 # UBUNTU GERAL
