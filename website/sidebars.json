@@ -1,7 +1,8 @@
 {
   "docs": {
     "Handbooks": [
-      "handbook_ubuntu"
+      "handbook_ubuntu",
+      "handbook_cloud"
     ],
     "Magento 1": ["doc2"],
     "Magento 2": ["doc3"]
