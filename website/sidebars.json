@@ -1,6 +1,8 @@
 {
   "docs": {
-    "Onboarding": ["doc1"],
+    "Onboarding": [
+      "onboarding_ubuntu"
+    ],
     "Magento 1": ["doc2"],
     "Magento 2": ["doc3"]
   },

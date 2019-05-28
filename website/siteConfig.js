@@ -38,11 +38,12 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {page: 'index', label: 'Home'},
-    {doc: 'onboarding', label: 'Onboarding'},
-    {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    // {page: 'index', label: 'Home'},
+    {doc: 'onboarding_ubuntu', label: 'Docs'},
+    // {doc: 'doc4', label: 'API'},
+    // {page: 'help', label: 'Help'},
+    // {blog: true, label: 'Blog'},
+    {href: "https://www.hibrido.com.br/blog/", label: 'Blog'},
     {href: "https://www.hibrido.com.br/", label: "Hibrido" },
   ],
 

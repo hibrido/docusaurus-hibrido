@@ -1,7 +1,6 @@
 ---
-id: onboarding
-title: Onboarding
-sidebar_label: Example Page
+id: onboarding_ubuntu
+title: Ubuntu
 ---
 
 # UBUNTU GERAL
