@@ -36,19 +36,19 @@ class Footer extends React.Component {
             )}
           </a>
           <div>
-            <h5>Docs</h5>
-            <a href={this.docUrl('doc1.html', this.props.language)}>
-              Getting Started (or other categories)
+            <h5>Documentações</h5>
+            <a href={this.docUrl('handbook_ubuntu', this.props.language)}>
+              Handbooks
             </a>
-            <a href={this.docUrl('doc2.html', this.props.language)}>
-              Guides (or other categories)
+            <a href={this.docUrl('m1', this.props.language)}>
+              Magento 1
             </a>
-            <a href={this.docUrl('doc3.html', this.props.language)}>
-              API Reference (or other categories)
+            <a href={this.docUrl('m2', this.props.language)}>
+              Magento 2
             </a>
           </div>
           <div>
-            <h5>Community</h5>
+            <h5>Comunidade</h5>
             <a href={this.pageUrl('users.html', this.props.language)}>
               User Showcase
             </a>
@@ -67,7 +67,7 @@ class Footer extends React.Component {
             </a>
           </div>
           <div>
-            <h5>More</h5>
+            <h5>Mais</h5>
             <a href={`${this.props.config.baseUrl}blog`}>Blog</a>
             <a href="https://github.com/">GitHub</a>
             <a

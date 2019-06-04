@@ -3,8 +3,6 @@ id: handbook_ubuntu
 title: Handbook Ubuntu
 ---
 
-# UBUNTU GERAL
-
 ## TWEAKS
 
 Podemos twekar algumas coisas nativas do ubuntu, como desabilitar animações, escolher ícones que irão aparecer no desktop, instalar extensões do ubuntu via browser, etc.. Para isso precisamos instalar o tweak tool, podemos fazer isso com o comando
