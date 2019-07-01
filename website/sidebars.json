@@ -7,7 +7,9 @@
     "Magento 1": ["m1"],
     "Magento 2": ["m2"],
     "Guia Performance":["performance"],
-    "Troubleshooting":["troubleshooting"]
+    "Troubleshooting":["troubleshooting"],
+    "Boas Práticas":["boas_praticas"],
+    "Git Good":["git_good"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
