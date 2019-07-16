@@ -9,7 +9,8 @@
     "Guia Performance":["performance"],
     "Troubleshooting":["troubleshooting"],
     "Boas Práticas":["boas_praticas"],
-    "Git Good":["git_good"]
+    "Git Good":["git_good"],
+    "Gulp":["gulpado"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
